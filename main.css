@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(3, 3, 78);
+    color: rgb(119, 116, 116);
+    border-color: brown;
+    
+}
+
+nav{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+    color: chartreuse;
+}
+
+#memeImage{
+    margin-right: 200px;
+    margin-left: 200px;
+    box-shadow: 0cap;    
+}
+
+header{
+    text-align: center;
+    color: rgb(49, 6, 90);
+    border-color: black;
+}
